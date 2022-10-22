@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Soldiamond/Product-preview-card-component-challenge-on-Frontend-Mentor.com)
+- Live Site URL: (https://soldiamond.github.io/Product-preview-card-component-challenge-on-Frontend-Mentor.com)
 
 ## My process
 
@@ -53,10 +53,11 @@ I still need to work on reponsiveness of the page. As my mobile view looks reall
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@soldiamond](https://www.frontendmentor.io/profile/soldiamond)
+- Website - (https://www.solutionabiola.com)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/soldiamond)
 
 
 ## Acknowledgments
 
-Yeah, i give this to GOD, my mentor(even if he does not know about this) and also w3schools
+Yeah, i give this to GOD. 
+-My mentor(even if he does not know about this) and also w3schools
